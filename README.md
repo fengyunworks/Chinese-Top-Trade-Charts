@@ -25,20 +25,35 @@ GitHub中文行业源码排行榜
 <br />
 
 <div align="center">
- #互联网
-#办公
-#游戏
-#制造
-#交通
-#金融
-#医疗
-#教育
-#传媒
-#地产
-#农业
-#政务
-#能源
-#电信
+ <div>#互联网  #
+</div>
+<div>#办公  #
+</div>
+<div>#游戏  #
+</div>
+<div>#制造  #
+</div>
+<div>#交通  #
+</div>
+<div>#金融  #
+</div>
+<div>#医疗  #
+</div>
+<div>#教育  #
+</div>
+<div>#传媒  #
+</div>
+<div>#地产  #
+</div>
+<div>#农业  #
+</div>
+<div>#政务  #
+</div>
+<div>#能源  #
+</div>
+<div>#电信
+    
+    #
 </div>
 
 <div align="center">
