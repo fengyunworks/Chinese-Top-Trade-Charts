@@ -1,6 +1,13 @@
 # Chinese-Top-Trade-Charts
 GitHub中文行业源码排行榜
+
+
+
 <div align="center">
+    「帮助你发现优秀中文各行业源码排行榜，可以无语言障碍地、更高效地吸收优秀经验成果」
+</div>
+
+<div >
  <div># 互联网  #
 </div>
 <div>#办公  #
@@ -31,13 +38,6 @@ GitHub中文行业源码排行榜
     
     #
 </div>
-
-
-<div align="center">
-    「帮助你发现优秀中文各行业源码排行榜，可以无语言障碍地、更高效地吸收优秀经验成果」
-</div>
-
-<br />
 
 <div align="center">
     <p><sub>↓ -- 项目说明 -- ↓</sub></p>
